@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "GameStats",
+    "slug": "gamestats",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "web": {
+      "output": "single"
+    }
+  }
+}
