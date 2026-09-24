@@ -1,0 +1,72 @@
+[
+    {
+        "jogo": "GTA V",
+        "ano": 2013,
+        "genero": "Ação",
+        "plataforma": "PlayStation",
+        "nota": 9.5
+    },
+    {
+        "jogo": "Minecraft",
+        "ano": 2011,
+        "genero": "Sandbox",
+        "plataforma": "PC",
+        "nota": 9.0
+    },
+    {
+        "jogo": "Red Dead Redemption 2",
+        "ano": 2018,
+        "genero": "Ação",
+        "plataforma": "PlayStation",
+        "nota": 9.8
+    },
+    {
+        "jogo": "The Witcher 3",
+        "ano": 2015,
+        "genero": "RPG",
+        "plataforma": "PC",
+        "nota": 9.7
+    },
+    {
+        "jogo": "God of War",
+        "ano": 2018,
+        "genero": "Ação",
+        "plataforma": "PlayStation",
+        "nota": 9.4
+    },
+    {
+        "jogo": "Fortnite",
+        "ano": 2017,
+        "genero": "Battle Royale",
+        "plataforma": "PC",
+        "nota": 8.5
+    },
+    {
+        "jogo": "Elden Ring",
+        "ano": 2022,
+        "genero": "RPG",
+        "plataforma": "PlayStation",
+        "nota": 9.6
+    },
+    {
+        "jogo": "The Last of Us",
+        "ano": 2013,
+        "genero": "Ação",
+        "plataforma": "PlayStation",
+        "nota": 9.2
+    },
+    {
+        "jogo": "FIFA 24",
+        "ano": 2023,
+        "genero": "Esportes",
+        "plataforma": "PlayStation",
+        "nota": 8.2
+    },
+    {
+        "jogo": "Mario Kart 8",
+        "ano": 2014,
+        "genero": "Corrida",
+        "plataforma": "Nintendo",
+        "nota": 8.8
+    }
+]
